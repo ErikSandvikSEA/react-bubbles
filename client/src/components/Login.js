@@ -59,7 +59,7 @@ const Login = () => {
       ...credentials,
       [e.target.name]: e.target.value
     })
-    console.log(credentials)
+    // console.log(credentials)
   }
 
   //submit handler
